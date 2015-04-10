@@ -1,12 +1,16 @@
 # mock_ngcordova_example
-sudo npm install gulp
 
-Error: Cannot find module 'gulp-util'
+Example project for this article : 
 
-sudo npm install gulp-util
+## Setup
 
-repertoire node_modules, npm install
+`npm install gulp`
 
-gulp preprocess https://www.npmjs.com/package/gulp-preprocess
+`npm install gulp-util`
 
-npm install gulp-preprocess --save-dev
+`npm install gulp-preprocess --save-dev`
+
+`cd node_modules npm install `
+
+
+
